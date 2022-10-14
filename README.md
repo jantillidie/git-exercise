@@ -2,7 +2,7 @@
 
 test syntax hl
 
-``` json
+```json
 {
 "type": "pie", 
 "flavor": "apple", 
